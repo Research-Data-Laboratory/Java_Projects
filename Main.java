@@ -8,7 +8,7 @@
 */
 
 import createfile.templates.*;
-public class Main extends AutoExec {
+public class Main {
     public static void main (String[] args) {
         final String[] headlineLow = {"\nc","r","e","a","t","e"," a ", "f","i","l","e\n"};
         final String headlineChar = "-";
